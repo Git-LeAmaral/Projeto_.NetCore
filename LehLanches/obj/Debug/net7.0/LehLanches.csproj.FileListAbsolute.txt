@@ -28,3 +28,5 @@ E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\refint\LehLanches.dll
 E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\LehLanches.pdb
 E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\LehLanches.genruntimeconfig.cache
 E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\ref\LehLanches.dll
+E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\LehLanches.Properties.Resources.resources
+E:\ASP-.NETCORE\LehLanches\obj\Debug\net7.0\LehLanches.csproj.GenerateResource.cache

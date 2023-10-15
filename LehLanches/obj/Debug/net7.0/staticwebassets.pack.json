@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\ASP-.NETCORE\\LehLanches\\wwwroot\\images\\lanche-1.png",
+      "PackagePath": "staticwebassets\\images\\lanche-1.png"
+    },
+    {
+      "Id": "E:\\ASP-.NETCORE\\LehLanches\\wwwroot\\images\\lanche-2.png",
+      "PackagePath": "staticwebassets\\images\\lanche-2.png"
+    },
+    {
+      "Id": "E:\\ASP-.NETCORE\\LehLanches\\wwwroot\\images\\lanche-4.png",
+      "PackagePath": "staticwebassets\\images\\lanche-4.png"
+    },
+    {
+      "Id": "E:\\ASP-.NETCORE\\LehLanches\\wwwroot\\images\\lanche-5.png",
+      "PackagePath": "staticwebassets\\images\\lanche-5.png"
+    },
+    {
       "Id": "E:\\ASP-.NETCORE\\LehLanches\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
